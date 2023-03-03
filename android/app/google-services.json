@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536893362696",
+    "project_id": "feed-your-pet-ec328",
+    "storage_bucket": "feed-your-pet-ec328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536893362696:android:23e7dccad6b0b59de7f7bd",
+        "android_client_info": {
+          "package_name": "com.example.feed_your_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536893362696-l6kd1p60b5q3lh5p15gtuupi57l67rla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feed_your_pet",
+            "certificate_hash": "fc5e1861d82134b746922101e89233e1afe645dd"
+          }
+        },
+        {
+          "client_id": "536893362696-5vk037qf07jqsoucjf4oehqe2dm6c4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvhYkruXPcQOX8vD8CXdzQCMaMxdfmEIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536893362696-5vk037qf07jqsoucjf4oehqe2dm6c4aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
